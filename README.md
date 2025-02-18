@@ -49,15 +49,12 @@ Inclua um link ou GIF que demonstre o funcionamento do projeto:
 
 ## 📁 Estrutura do Projeto
 ```
-📂 seu-repositorio/
+📂 grafo/
 ├── 📄 seu_arquivo.py  # Código principal
 ├── 📄 requirements.txt  # Dependências do projeto
 ├── 📄 README.md  # Documentação
-└── 📁 data/  # (Opcional) Arquivos de dados, se necessário
-```
 
-## 📜 Licença
-Este projeto está licenciado sob a **MIT License**. Sinta-se livre para utilizá-lo e modificá-lo conforme necessário!
+```
 
 ## 📝 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
