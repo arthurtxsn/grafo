@@ -61,6 +61,6 @@ Este projeto está licenciado sob a **MIT License**. Sinta-se livre para utiliz�
 
 ## 📝 Contato
 Caso tenha dúvidas ou sugestões, entre em contato:
-- ✉️ Email: [seu-email@email.com](mailto:seu-email@email.com)
-- 🐙 GitHub: [seu-usuario](https://github.com/seu-usuario)
+- ✉️ Email: arthur.teixeira@aln.senaicimatec.edu.br
+- 🐙 GitHub: arthurtxsn
 
