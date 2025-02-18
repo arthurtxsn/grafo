@@ -41,6 +41,12 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - **geopy** (Cálculo de distâncias geográficas)
 - **matplotlib** (Plotagem de gráficos)
 
+## 🌎 Demo
+
+Inclua um link ou GIF que demonstre o funcionamento do projeto:
+![image](https://github.com/user-attachments/assets/6da7a58b-9348-4171-9bad-84c1c25036b1)
+
+
 ## 📁 Estrutura do Projeto
 ```
 📂 seu-repositorio/
